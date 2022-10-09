@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Poulami-17
+- 👋 Hi, I’m Poulami Bera
 - I'm currently pursuing B.Tech From Gurunanak Institute of Technology
 - 👀 I’m interested in Problem Solving
 - 🌱 I’m currently learning DSA
