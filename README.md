@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Poulami Bera
-- I'm currently pursuing B.Tech From Gurunanak Institute of Technology
+- Currently working as Analyst at Capgemini Technology Services India Limited
+- Completed B.Tech From Gurunanak Institute of Technology
 - 👀 I’m interested in Problem Solving
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me poulamibera519@gmail.com
